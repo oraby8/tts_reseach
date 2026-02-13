@@ -1,0 +1,13 @@
+__pycache__/
+test.py
+*.json
+*.pth
+dist/
+*.egg-info/
+checkpoints/
+dataset/
+test_freeze_logic/
+wandb/
+.venv/
+.gitignore/
+.env

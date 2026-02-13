@@ -1,0 +1,12 @@
+einops
+huggingface_hub
+numpy
+scipy
+torch
+torchaudio
+tqdm
+transformers
+nemo_toolkit[tts]
+soundfile
+datasets
+wandb

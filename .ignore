@@ -1,0 +1,8 @@
+checkpoints
+dataset
+test_freeze_logic
+wandb
+.venv
+.gitignore
+__pycache__
+.env
